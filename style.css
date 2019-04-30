@@ -1,0 +1,41 @@
+
+html {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+  
+  .about_bg {
+  background: url("img/about_bg.png") no-repeat center center;
+  width: 100%;
+  height: auto;
+  }
+  .credo_bg {
+  background: url(images/about.bg.jpg) no-repeat center center fixed;
+  }
+  .opening_bg {
+  background: url(images/contact-bg.jpg) no-repeat center center fixed;
+  }
+  .apartments_bg {
+   background: url(images/contact-bg.jpg) no-repeat center center fixed;
+   }
+  .laundry_bg {
+   background: url(images/contact-bg.jpg) no-repeat center center fixed;
+  }
+  .contact_bg {
+    background: url(images/contact-bg.jpg) no-repeat center center fixed;
+   }
+.logo1, .logo2{
+  text-align: center;
+}
+.logo1 img{
+margin-top: 4rem;
+}
+.logo2 img{
+  margin-top: 2rem;
+}
+.menu{
+    margin-top: 350px;
+    text-align: center;
+}
